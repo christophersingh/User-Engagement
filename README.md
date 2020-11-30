@@ -1,6 +1,6 @@
 # User-Engagement
 
-This repo contains the technical assignment. Please see the python notebook for the code. 
+This repo contains the analysis of LinkedIn user data. Please see the python notebook for the code. 
 
 To run, please install all the python libraries found in requirements.txt
 
